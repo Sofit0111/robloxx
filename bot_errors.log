@@ -1,0 +1,32 @@
+2025-11-21 23:13:26,749 - INFO - aiogram.dispatcher - Start polling
+2025-11-21 23:13:26,816 - INFO - aiogram.dispatcher - Run polling for bot @XRobloxX_bot id=8496994719 - 'RobloxX'
+2025-11-21 23:14:23,317 - INFO - aiogram.dispatcher - Polling stopped
+2025-11-21 23:14:23,571 - INFO - aiogram.dispatcher - Polling stopped for bot @XRobloxX_bot id=8496994719 - 'RobloxX'
+2025-11-21 23:14:23,582 - INFO - __main__ - Бот остановлен.
+2025-11-22 00:33:43,077 - INFO - __main__ - YooKassa configured successfully.
+2025-11-22 00:33:43,379 - INFO - __main__ - Bot started!
+2025-11-22 00:33:43,380 - INFO - aiogram.dispatcher - Start polling
+2025-11-22 00:33:43,428 - INFO - aiogram.dispatcher - Run polling for bot @XRobloxX_bot id=8496994719 - 'RobloxX'
+2025-11-22 00:33:49,016 - INFO - aiogram.event - Update id=736904818 is handled. Duration 251 ms by bot id=8496994719
+2025-11-22 00:33:50,348 - INFO - aiogram.event - Update id=736904819 is handled. Duration 98 ms by bot id=8496994719
+2025-11-22 00:33:51,536 - INFO - aiogram.event - Update id=736904820 is handled. Duration 150 ms by bot id=8496994719
+2025-11-22 00:33:52,209 - INFO - aiogram.event - Update id=736904821 is handled. Duration 159 ms by bot id=8496994719
+2025-11-22 00:33:53,104 - INFO - aiogram.event - Update id=736904822 is handled. Duration 166 ms by bot id=8496994719
+2025-11-22 00:33:53,775 - INFO - aiogram.event - Update id=736904823 is handled. Duration 204 ms by bot id=8496994719
+2025-11-22 00:33:57,934 - INFO - aiogram.event - Update id=736904824 is handled. Duration 86 ms by bot id=8496994719
+2025-11-22 00:33:59,005 - INFO - aiogram.event - Update id=736904825 is handled. Duration 125 ms by bot id=8496994719
+2025-11-22 00:34:01,204 - INFO - aiogram.event - Update id=736904826 is handled. Duration 91 ms by bot id=8496994719
+2025-11-22 00:34:02,677 - INFO - aiogram.event - Update id=736904827 is not handled. Duration 2 ms by bot id=8496994719
+2025-11-22 00:34:11,059 - INFO - aiogram.event - Update id=736904828 is not handled. Duration 2 ms by bot id=8496994719
+2025-11-22 00:34:11,997 - INFO - aiogram.event - Update id=736904829 is not handled. Duration 2 ms by bot id=8496994719
+2025-11-22 00:34:12,289 - INFO - aiogram.event - Update id=736904830 is handled. Duration 0 ms by bot id=8496994719
+2025-11-22 00:34:12,551 - INFO - aiogram.event - Update id=736904831 is not handled. Duration 2 ms by bot id=8496994719
+2025-11-22 00:34:12,770 - INFO - aiogram.event - Update id=736904832 is handled. Duration 0 ms by bot id=8496994719
+2025-11-22 00:34:25,983 - INFO - aiogram.event - Update id=736904833 is handled. Duration 155 ms by bot id=8496994719
+2025-11-22 00:34:27,019 - INFO - aiogram.event - Update id=736904834 is handled. Duration 88 ms by bot id=8496994719
+2025-11-22 00:34:28,005 - INFO - aiogram.event - Update id=736904835 is handled. Duration 127 ms by bot id=8496994719
+2025-11-22 00:34:28,585 - INFO - aiogram.event - Update id=736904836 is handled. Duration 62 ms by bot id=8496994719
+2025-11-22 00:34:29,518 - INFO - aiogram.event - Update id=736904837 is handled. Duration 79 ms by bot id=8496994719
+2025-11-22 00:35:10,061 - INFO - aiogram.dispatcher - Polling stopped
+2025-11-22 00:35:10,324 - INFO - aiogram.dispatcher - Polling stopped for bot @XRobloxX_bot id=8496994719 - 'RobloxX'
+2025-11-22 00:35:10,330 - INFO - __main__ - Bot stopped.
